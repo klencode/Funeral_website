@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tributes to Welford Anum Mensah</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f8f8;
+            margin: 0;
+        }
+
+        .containersss {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1,
+        h2 {
+            color: #3498db;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-size: 1.5rem;
+            margin-top: 30px;
+            border-bottom: 1px solid #3498db;
+            padding-bottom: 5px;
+            color: #3498db;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        .tribute-section {
+            margin-bottom: 40px;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 10px;
+            font-size: 0.9rem;
+            color: #555;
+            margin-top: 40px;
+        }
+
+        .hero-tr {
+            font-size: 30px;
+        }
+        h2 {
+            color: #3498db
+        }
+    </style>
+</head>
+
+<body>
+
+    <section class="hero hero-tr">
+        <img src="/pp.jpeg" alt="Welford Anum Mensah">
+        <h1>Tributes to Welford Anum Mensah</h1>
+    </section>
+
+    <div class="containersss">
+
+        <!-- Tribute by Children -->
+        <section class="tribute-section">
+            <h2 style="color: #3498db;">Tribute by Children</h2>
+            <p>In everything give thanks; for this is the will of God in Christ Jesus concerning you. 1 Thessalonians
+                6:18 (KJV)</p>
+            <p>We are saddened by the passing of our beloved father but we are very thankful to God for granting him a
+                fulfilled life. We are in tune with the hymnist in MHB 377 that “whatever my lot, thou has taught me to
+                say it is well with my soul”.</p>
+            <p>Daddy, we were fortunate to have you as our father. Growing up, we all witnessed your desire and focus on
+                giving us a proper education. The inspection of our uniforms to check cleanliness after school to ensure
+                that our focus was ultimately in the classroom.</p>
+            <p>Daddy, you were a total disciplinarian. You shaped our lives with your regular behavioral checks and
+                reminded us to never forget our roots and always be respectful and humble. By your hard work,
+                compassion, and dedication, you demonstrated to us that anything is possible once you put your mind to
+                it.</p>
+            <p>Most of all, you were a loving father. You put in a lot of work to keep your children together. We fondly
+                remember those Christmas days when we all sat around the round table in the compound and shared soft
+                drinks and biscuits. Daddy, you taught us so much and we are very thankful for having you as our father.
+            </p>
+            <p>As difficult as we have to watch you go meet your maker, we are comforted that you are in a better place
+                and nodding your head in approval. You may have gone but certainly not forgotten. Our goodbyes today are
+                not forever and not the end but simply mean we would miss you till we meet again.</p>
+        </section>
+
+        <!-- Tribute by In-Laws -->
+        <section class="tribute-section">
+            <h2 style="color: #3498db;">Tribute by In-Laws</h2>
+            <p>To our beloved Father-in-law Welford Anum Mensah.</p>
+            <p>Today, we celebrate the extraordinary life you lived. Marriage brings families together as expected but
+                ours was not a mere saying but one born out of love and affection. Our father-in-law welcomed each one
+                of us into the family without any reservations.</p>
+            <p>He inspired us with his kindness, wisdom, and love. He was always willing and available to offer words of
+                encouragement whenever needed. His presence was indeed felt in our lives. We will always remember all
+                that you did for the family.</p>
+            <p>He took keen interest in the welfare of his grandchildren, he showed them love and made them happy
+                whenever they were with him. We are honored and privileged to have known such a great person like you.
+            </p>
+            <p>Although you are no longer with us physically, we take comfort in the memories we shared together. We are
+                comforted knowing that you are in a better place away from all the tribulations on earth. You will
+                forever remain in our hearts, daddy as we affectionately called you. We will cherish and always remember
+                the time we spent with you. Rest in peace in the bosom of the Almighty God.</p>
+        </section>
+
+        <!-- Tribute by Church -->
+        <section class="tribute-section">
+            <h2 style="color: #3498db;">Tribute by Church - Ebenezer Methodist Society, Dansoman Circuit</h2>
+            <p>“Everything that happens in this world happens at the time God chooses. He sets the time for birth and
+                the time for death..........” (Ecclesiastes 3:1&2 GNB)</p>
+            <p>The late Bro. Welford Anum Mensah joined Ebenezer Methodist Church, in 2015 from Mt. Olivet Society. Upon
+                joining the church, he joined Sis Ivy Otoo&apos;s Bible Class, now the Acts bible Class and immediately
+                requested for a tithe book to enable him pay his tithes. Though he joined the church when he was in his
+                old age, he was regular at church services.</p>
+            <p>Bro. Welford Mensah was a simple and modest person, he was a man of few words and you would always find
+                him seated quietly when he comes for church services. Not long after he joined the church, due to old
+                age and health challenges, he was not able to make it for church services but the Rev Minister and
+                Stewards visited him to pray for him and administer to him the communion and he was always looking
+                forward to that visit.</p>
+            <p>On Wednesday the 18th of September 2024, the Rev Minister and the steward visited him, administered to
+                him the communion and prayed for him, then on Wednesday 25th of September 2024, the news of his death
+                reached us. Little did they know that was the last time they were seeing Mr. Mensah.</p>
+            <p>We offer our sincere condolences to his wife, children, siblings, family, friends, and associates and all
+                who are closer to him. We believe Mr. Mensah is taking a well-deserved rest in the bosom of His creator
+                where there is no more pain, no more sorrow and no more worries. Let us not weep as people without hope
+                but rather rejoice with the belief that Jesus died and rose again and so we believe that God will bring
+                with Jesus those who have fallen asleep in Him. Farewell our beloved Bro. Welford Anum Mensah, and may
+                your soul rest in perfect peace till we meet again.</p>
+        </section>
+
+        <!-- Tribute by Grandchildren -->
+        <section class="tribute-section">
+            <h2 style="color: #3498db;">Tribute by Grandchildren and Great-Grandchildren</h2>
+            <p>A tribute to our grandfather, a shining soul, with kindness in his heart and humor in his soul. He
+                brightened lives, making our world whole. His love for the outdoors, a constant delight, inspired
+                adventures, under sun-kissed light.</p>
+            <p>Through diligent work, he showed us the way, to earn with pride, each and every day. His drive to
+                provide, a noble quest, taught us self-reliance and doing our best. &apos;Make your own money,&apos; he&apos;d often
+                say, &apos;Don&apos;t depend on others, find your own way.&apos; A valuable lesson we gratefully hold, empowering us to
+                stand, young and bold.</p>
+            <p>We&apos;re grateful for laughter, tears, and fun, for memories of him, forever won. His legacy of love,
+                forever in our hearts, guides us forward, never to depart. Rest in peace, dear grandfather of ours. Your
+                kindness, humor, and love forever shine.</p>
+        </section>
+    </div>
+
+    <div class="footer">
+        &copy; 2024 Remembering Welford Anum Mensah. All Rights Reserved.
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography of Welford Anum Mensah</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        /* Global Styles */
+        body {
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f8f8;
+            margin: 0;
+        }
+
+        .container-ob {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #3498db;
+        }
+
+        h1 {
+            font-size: 2rem;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        @media screen and (max-width: 600px) {
+
+            .hero-ob h1 {
+                font-size: 30px;
+            }
+        }
+
+
+        h2 {
+            font-size: 1.6rem;
+            margin-top: 30px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        /* Footer Styles */
+        .footer {
+            text-align: center;
+            padding: 10px;
+            font-size: 0.9rem;
+            color: #555;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <section class="hero hero-ob">
+        <img src="/pp.jpeg" alt="Welford Anum Mensah">
+        <h1>Biography of Welford Anum Mensah: <br /> His Life and Achievements</h1>
+    </section>
+
+    <div class="container-ob">
+        <h2>Early Life & Education</h2>
+        <p>On the 11th day of July 1942, our beloved father and husband embarked on a remarkable journey that took him
+            to various places, shaping his life and career.</p>
+        <p>He was born in Ejura in the Ashanti Region of the Republic of Ghana to his parents Olobi Mensah and Fofo
+            Mensah, who are all deceased. He was born into a family that was deeply rooted in traditional Ghanaian
+            values and the Christian faith. He was the last child among five children.</p>
+        <p>His educational journey began at La Salem School, where he completed secondary education up to Form 4. This
+            foundation laid the groundwork for his future endeavors.</p>
+
+        <h2>Career</h2>
+        <p>Welford began his professional life at the Council for Scientific and Medical Research, where he honed his
+            skills in scientific research. In his quest to expand his expertise, he traveled to Holland to study Animal
+            Husbandry. There, he gained valuable expertise, knowledge, and experience in animal husbandry.</p>
+        <p>Upon returning to Ghana, he joined the Agricultural Development Bank (ADB) as a farm manager, a role that
+            allowed him to apply his acquired knowledge and expertise in animal husbandry and management.</p>
+
+        <h2>Entrepreneurial Spirit</h2>
+        <p>Driven by a passion for entrepreneurship, Welford ventured into farming by acquiring large parcels of land in
+            Gbawe, Accra, where he reared animals on a large scale. His dedication and hard work led to the farm's
+            success and growth, showcasing his ability to manage and grow a business while creating employment
+            opportunities for many young men and women.</p>
+        <p>Known affectionately as "Addotse" by the people of Gbawe, he diversified his entrepreneurial interests by
+            starting a transportation business, demonstrating his versatility and adaptability. He continued his farm
+            and transportation businesses for most of his life until retirement.</p>
+
+        <h2>Family</h2>
+        <p>Welford was family-oriented. He married and had eight children whom he nurtured from childbirth to maturity.
+            He was also blessed with several grandchildren and great-grandchildren. A devoted father and grandfather, he
+            will forever be remembered for his unwavering support and guidance, infectious sense of humor, and
+            unshakeable optimism.</p>
+
+        <h2>Legacy</h2>
+        <p>Throughout his life, Welford demonstrated a commitment to personal growth, professional development, and
+            community contribution. His remarkable life is a testament to perseverance and resilience. His contributions
+            to agriculture, research, and community development have left a lasting impact.</p>
+        <p>Though he has departed to be with his maker, today we celebrate and honor his legacy and a life well-lived.
+        </p>
+    </div>
+
+    <div class="footer">
+        &copy; 2024 Remembering Welford Anum Mensah. All Rights Reserved.
+    </div>
+
+</body>
+
+</html>
