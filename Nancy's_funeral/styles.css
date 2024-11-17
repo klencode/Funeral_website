@@ -28,7 +28,7 @@
             background-color: #fff;
             position: relative;
             overflow: hidden;
-            background-image: url('/hp1.jpeg');
+            background-image: url('hp1.jpeg');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
