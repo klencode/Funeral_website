@@ -182,13 +182,14 @@
 /* Apply Flexbox */
 .gallery-scroll {
     display: flex;
+    width: calc(100% * 9);
     align-items: center;
     gap: 10px;
-    animation: scrollGallery 80s linear infinite;
+    animation: scrollGallery 88s linear infinite;
 }
 
 .gallery img {
-    width: 300px;
+    width: 350px;
     height: 350px;
     object-fit: cover;
     border-radius: 8px;
@@ -205,7 +206,7 @@
         transform: translateX(0);
     }
     to {
-        transform: translateX(-200%);
+        transform: translateX(-100%);
     }
 }
 
@@ -456,3 +457,12 @@
         .tile .read-more:hover {
             background-color: #fafafa;
         }
+
+                /* Apply Flexbox */
+        /* .gallery-scroll {
+            animation: scrollGallery 80s linear infinite;
+        }
+
+        .gallery img {
+            transition: transform 0.1s ease-in-out;
+        } */
